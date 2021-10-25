@@ -1,0 +1,16 @@
+.App {
+    background-color: #ffffff;
+    width: 50%;
+    margin: auto;
+    max-width: 350px;
+}
+
+.control-forgot-pass {
+    display: flex;
+    justify-content: space-between;
+}
+
+#radio-input {
+    accent-color: #2B6CB0;
+}
+
